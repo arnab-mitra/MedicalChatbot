@@ -1,0 +1,9 @@
+faiss-cpu
+flask
+flask-cors
+python-dotenv
+langchain-community
+langchain_google_genai
+torch
+fitz
+pymupdf
